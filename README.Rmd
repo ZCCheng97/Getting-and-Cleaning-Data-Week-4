@@ -7,10 +7,6 @@ output:
   pdf_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ### Files in this Repo
 
 - README.md: Description of data set and data cleaning steps.
