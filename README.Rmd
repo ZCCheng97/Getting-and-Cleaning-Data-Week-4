@@ -1,12 +1,3 @@
----
-title: "README"
-author: "ZC"
-date: "5/19/2020"
-output:
-  html_document: default
-  pdf_document: default
----
-
 ### Files in this Repo
 
 - README.md: Description of data set and data cleaning steps.
