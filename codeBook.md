@@ -5,6 +5,8 @@ Subject: ID number of subject, from 1 to 30.
 Activity: Type of activity, walking, walking downstairs, walking
 upstairs, sitting, standing and laying.
 
+**The following variables are averaged values of the original.**
+
 tBodyAcc.mean…X: Mean of time-domain body acceleration in X-direction.
 
 tBodyAcc.mean…Y: Mean of time-domain body acceleration in Y-direction.
