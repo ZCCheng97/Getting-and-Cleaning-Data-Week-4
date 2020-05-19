@@ -1,8 +1,8 @@
 ### Files in this Repo
 
 -   README.md: Description of data set and data cleaning steps.
--   CodeBook.md: Description of variables in tidydata.csv
--   run\_analysis.R: Script to produce tidydata.csv
+-   CodeBook.md: Description of variables in tidydata.txt
+-   run\_analysis.R: Script to produce tidydata.txt
 
 ### Data Summary
 
